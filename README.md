@@ -12,6 +12,9 @@ AI生成画像とプロシージャル生成3Dモデルのフリー素材サン�
 | `images/mv-scenes/` | MV風シネマティック背景 | 8 |
 | `images/shoga-chan/` | しょうがちゃん バリエーション（ポーズ・衣装・季節） | 12 |
 | `images/yakumi/` | やくみ組 イラスト | 10 |
+| `images/shoga-chan-vol2/` | しょうがちゃん バリエーション第2弾（温泉・探検・宇宙服ほか） | 12 |
+| `images/yakumi-vol2/` | やくみ組 イラスト第2弾（温泉旅行・運動会ほか） | 10 |
+| `images/backgrounds-vol2/` | 背景素材 第2弾 | 8 |
 | `models3d/props/` | ローポリ小道具 GLB 12点（trimeshでプロシージャル生成、生成スクリプト同梱） | 12 |
 | `models3d/ginger-renders/` | しょうが（Ginger）モデルの6アングルレンダー | 6 |
 
