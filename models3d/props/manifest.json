@@ -1,0 +1,74 @@
+[
+  {
+    "name": "wooden_crate",
+    "file": "wooden_crate.glb",
+    "faces": 408,
+    "vertices": 272
+  },
+  {
+    "name": "bottle",
+    "file": "bottle.glb",
+    "faces": 256,
+    "vertices": 138
+  },
+  {
+    "name": "chochin_lantern",
+    "file": "chochin_lantern.glb",
+    "faces": 848,
+    "vertices": 432
+  },
+  {
+    "name": "mini_torii",
+    "file": "mini_torii.glb",
+    "faces": 144,
+    "vertices": 84
+  },
+  {
+    "name": "mic_stand",
+    "file": "mic_stand.glb",
+    "faces": 576,
+    "vertices": 310
+  },
+  {
+    "name": "speaker_box",
+    "file": "speaker_box.glb",
+    "faces": 428,
+    "vertices": 228
+  },
+  {
+    "name": "chair",
+    "file": "chair.glb",
+    "faces": 120,
+    "vertices": 80
+  },
+  {
+    "name": "table",
+    "file": "table.glb",
+    "faces": 240,
+    "vertices": 130
+  },
+  {
+    "name": "book_stack",
+    "file": "book_stack.glb",
+    "faces": 144,
+    "vertices": 96
+  },
+  {
+    "name": "plant_pot",
+    "file": "plant_pot.glb",
+    "faces": 432,
+    "vertices": 230
+  },
+  {
+    "name": "traffic_cone",
+    "file": "traffic_cone.glb",
+    "faces": 332,
+    "vertices": 178
+  },
+  {
+    "name": "gift_box",
+    "file": "gift_box.glb",
+    "faces": 208,
+    "vertices": 116
+  }
+]
